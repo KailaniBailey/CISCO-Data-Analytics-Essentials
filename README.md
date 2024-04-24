@@ -10,4 +10,4 @@
 - Module 8: Introduction to Tableau
 - Module 9: Ethics and Dias in Data
 - Module 10: Take the Next Steps
-- CISCO Data Analytics Final Exam 
+- CISCO Data Analytics Essentials Final Exam 
