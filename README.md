@@ -1,6 +1,6 @@
 # CISCO Data Analytics Essentials
 ## Table of Contents
-- Module 1: Data Analytics Projects
+- Module 1: [Data Analytics Projects](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/01.%20Data%20Analytics%20Projects)
 - Module 2: Getting Started with Data Gathering and Investigation
 - Module 3: Preparing and Cleaning Data for Analysis
 - Module 4: Transforming Data with Excel
