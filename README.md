@@ -8,7 +8,7 @@
 - Module 5: [Analyze the Data Using Statistics](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/05.%20Analyze%20the%20Data%20Using%20Statistics)
 - Module 6: [Introduction to Relational Databases and SQL](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/06.%20Introduction%20to%20Relational%20Databases%20and%20SQL)
 - Module 7: [Introduction to Structured Queries](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/07.%20Introduction%20to%20Structured%20Queries)
-- Module 8: Introduction to Tableau
+- Module 8: [Introduction to Tableau](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/08.%20Introduction%20to%20Tableau)
 - Module 9: Ethics and Dias in Data
 - Module 10: Take the Next Steps
 - CISCO Data Analytics Essentials Final Exam 
