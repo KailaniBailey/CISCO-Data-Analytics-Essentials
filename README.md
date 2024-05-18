@@ -1,3 +1,4 @@
+![CISCO-Data-Analytics-Essentials](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/assets/158431578/20e9b873-5247-46e7-9fc2-4af28e255ad4)
 # CISCO Data Analytics Essentials
 > "This data analytics essentials course teaches you the fundamental tools of a data analyst. You will learn to transform, organize, and visualize data with spreadsheet tools such as Excel. You will also learn how to query data from a relational database using SQL and how to improve your data presentations using powerful business intelligence tools like Tableau. By the end of the course, you will have an analytics portfolio complete with an analysis of the popular movies dataset, showcasing your skills in Excel, SQL and Tableau."
 ## Table of Contents
