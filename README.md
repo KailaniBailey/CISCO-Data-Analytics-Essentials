@@ -5,7 +5,7 @@
 - Module 2: [Getting Started with Data Gathering and Investigation](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/02.%20Getting%20Started%20with%20Data%20Gathering%20and%20Investigation)
 - Module 3: [Preparing and Cleaning Data for Analysis](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/03.%20Preparing%20and%20Cleaning%20Data%20for%20Analysis)
 - Module 4: [Transforming Data with Excel](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/04.%20Transforming%20Data%20with%20Excel)
-- Module 5: Analyze the Data Using Statistics
+- Module 5: [Analyze the Data Using Statistics](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/05.%20Analyze%20the%20Data%20Using%20Statistics)
 - Module 6: Introduction to Relational Databases and SQL
 - Module 7: Introduction to Structured Queries
 - Module 8: Introduction to Tableau
