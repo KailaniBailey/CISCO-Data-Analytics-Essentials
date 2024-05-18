@@ -11,4 +11,4 @@
 - Module 8: [Introduction to Tableau](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/08.%20Introduction%20to%20Tableau)
 - Module 9: [Ethics and Bias in Data](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/09.%20Ethics%20and%20Bias%20in%20Data)
 - Module 10: [Take the Next Steps](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/10.%20Take%20the%20Next%20Steps)
-- CISCO Data Analytics Essentials Final Exam 
+- [CISCO Data Analytics Essentials Final Exam](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/Data%20Analytics%20Essentials%20Final%20Exam)
