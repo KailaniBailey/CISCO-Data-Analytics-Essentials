@@ -1,4 +1,4 @@
-![CISCO-Data-Analytics-Essentials](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/assets/158431578/20e9b873-5247-46e7-9fc2-4af28e255ad4)
+![CISCO](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/assets/158431578/187ab99e-e832-47b2-b1f9-aab918843845)
 # CISCO Data Analytics Essentials
 > "This data analytics essentials course teaches you the fundamental tools of a data analyst. You will learn to transform, organize, and visualize data with spreadsheet tools such as Excel. You will also learn how to query data from a relational database using SQL and how to improve your data presentations using powerful business intelligence tools like Tableau. By the end of the course, you will have an analytics portfolio complete with an analysis of the popular movies dataset, showcasing your skills in Excel, SQL and Tableau."
 ## Table of Contents
@@ -13,3 +13,5 @@
 - Module 9: [Ethics and Bias in Data](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/09.%20Ethics%20and%20Bias%20in%20Data)
 - Module 10: [Take the Next Steps](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/10.%20Take%20the%20Next%20Steps)
 - [CISCO Data Analytics Essentials Final Exam](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/Data%20Analytics%20Essentials%20Final%20Exam)
+<br><br>
+![CISCO-Data-Analytics-Essentials](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/assets/158431578/aaf16d4f-e9ef-4711-a422-f3ba8545eee9)
