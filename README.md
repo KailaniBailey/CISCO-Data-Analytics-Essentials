@@ -10,5 +10,5 @@
 - Module 7: [Introduction to Structured Queries](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/07.%20Introduction%20to%20Structured%20Queries)
 - Module 8: [Introduction to Tableau](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/08.%20Introduction%20to%20Tableau)
 - Module 9: [Ethics and Bias in Data](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/09.%20Ethics%20and%20Bias%20in%20Data)
-- Module 10: Take the Next Steps
+- Module 10: [Take the Next Steps](https://github.com/KailaniBailey/CISCO-Data-Analytics-Essentials/tree/main/10.%20Take%20the%20Next%20Steps)
 - CISCO Data Analytics Essentials Final Exam 
